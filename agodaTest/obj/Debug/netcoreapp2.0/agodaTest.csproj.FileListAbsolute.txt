@@ -1,0 +1,11 @@
+C:\Users\User\Documents\agodaTest\bin\Debug\netcoreapp2.0\agodaTest.deps.json
+C:\Users\User\Documents\agodaTest\bin\Debug\netcoreapp2.0\agodaTest.runtimeconfig.json
+C:\Users\User\Documents\agodaTest\bin\Debug\netcoreapp2.0\agodaTest.runtimeconfig.dev.json
+C:\Users\User\Documents\agodaTest\bin\Debug\netcoreapp2.0\agodaTest.dll
+C:\Users\User\Documents\agodaTest\bin\Debug\netcoreapp2.0\agodaTest.pdb
+C:\Users\User\Documents\agodaTest\obj\Debug\netcoreapp2.0\agodaTest.csprojAssemblyReference.cache
+C:\Users\User\Documents\agodaTest\obj\Debug\netcoreapp2.0\agodaTest.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\agodaTest\obj\Debug\netcoreapp2.0\agodaTest.AssemblyInfoInputs.cache
+C:\Users\User\Documents\agodaTest\obj\Debug\netcoreapp2.0\agodaTest.AssemblyInfo.cs
+C:\Users\User\Documents\agodaTest\obj\Debug\netcoreapp2.0\agodaTest.dll
+C:\Users\User\Documents\agodaTest\obj\Debug\netcoreapp2.0\agodaTest.pdb
