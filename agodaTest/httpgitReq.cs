@@ -1,4 +1,5 @@
 using System;
+using System.Net;
 using System.Net.Http;
 using System.Text;
 using System.Threading.Tasks;
@@ -52,15 +53,23 @@ namespace agodaTest{
         async public static void callapiTest(){
                     Console.WriteLine($"Repsoity  top issues are:");
                     HttpClient client = new HttpClient();
-                    HttpResponseMessage response = await client.GetAsync("https://api.github.com/user/repos");
-                    response.Headers.Add("Authorization","Bearer dac14126ffc5ceec22e364d463f84b5cc7b30b5e");
+                    HttpResponseMessage response = client.GetAsync("https://api.github.com/user/repos").Result;
+                    response.Headers.Add("Authorization","Bearer e4266e0b3a25ff66a5f7c187a3286eeccdec328b");
+                    response.Headers.Add("Accept","*/*");
+                    response.Headers.Add("Connection","keep-alive");
+                    response.Headers.Add("Accept-Encoding","api.github.com");
+                    response.Headers.Add("User-Agent","MyConsoleApp");
+                    Console.WriteLine(response.Headers);
                     if (response.IsSuccessStatusCode)
                     {
                         var readTask = response.Content.ReadAsStringAsync().ConfigureAwait(false);
                         var rawResponse = readTask.GetAwaiter().GetResult();
                         Console.WriteLine(rawResponse);
                     }
-                    //Console.WriteLine("Complete");
+                    else {
+                        Console.WriteLine("no");
+                    }
+                    Console.WriteLine("Complete");
                 }
     }
 }

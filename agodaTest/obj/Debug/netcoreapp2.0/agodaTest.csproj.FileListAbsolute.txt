@@ -9,3 +9,15 @@ C:\Users\User\Documents\agodaTest\obj\Debug\netcoreapp2.0\agodaTest.AssemblyInfo
 C:\Users\User\Documents\agodaTest\obj\Debug\netcoreapp2.0\agodaTest.AssemblyInfo.cs
 C:\Users\User\Documents\agodaTest\obj\Debug\netcoreapp2.0\agodaTest.dll
 C:\Users\User\Documents\agodaTest\obj\Debug\netcoreapp2.0\agodaTest.pdb
+C:\Users\Non\Documents\Github\agoda\agodaTest\bin\Debug\netcoreapp2.0\agodaTest.deps.json
+C:\Users\Non\Documents\Github\agoda\agodaTest\bin\Debug\netcoreapp2.0\agodaTest.runtimeconfig.json
+C:\Users\Non\Documents\Github\agoda\agodaTest\bin\Debug\netcoreapp2.0\agodaTest.runtimeconfig.dev.json
+C:\Users\Non\Documents\Github\agoda\agodaTest\bin\Debug\netcoreapp2.0\agodaTest.dll
+C:\Users\Non\Documents\Github\agoda\agodaTest\bin\Debug\netcoreapp2.0\agodaTest.pdb
+C:\Users\Non\Documents\Github\agoda\agodaTest\obj\Debug\netcoreapp2.0\agodaTest.csprojAssemblyReference.cache
+C:\Users\Non\Documents\Github\agoda\agodaTest\obj\Debug\netcoreapp2.0\agodaTest.AssemblyInfoInputs.cache
+C:\Users\Non\Documents\Github\agoda\agodaTest\obj\Debug\netcoreapp2.0\agodaTest.AssemblyInfo.cs
+C:\Users\Non\Documents\Github\agoda\agodaTest\obj\Debug\netcoreapp2.0\agodaTest.csproj.CoreCompileInputs.cache
+C:\Users\Non\Documents\Github\agoda\agodaTest\obj\Debug\netcoreapp2.0\agodaTest.dll
+C:\Users\Non\Documents\Github\agoda\agodaTest\obj\Debug\netcoreapp2.0\agodaTest.pdb
+C:\Users\Non\Documents\Github\agoda\agodaTest\obj\Debug\netcoreapp2.0\agodaTest.genruntimeconfig.cache
